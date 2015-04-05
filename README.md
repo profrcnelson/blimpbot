@@ -1,3 +1,4 @@
 # blimpbot
-Arduino code etc. related to blimpbot project.
-Adding a line
+Arduino code etc.
+Related to blimpbot project.
+Added line 1
