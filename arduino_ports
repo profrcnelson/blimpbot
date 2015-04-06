@@ -1,0 +1,19 @@
+Arduino Port Assignments for Blimpbot
+
+Main microprocessor is an Arduino Mega 2560
+
+Motor control:
+Digital PWM ports 2-5 (output)
+
+LED outputs:
+Digital ports 8-12
+
+Pushbutton inputs:
+Digital ports 14,15?  or analog inputs A8, A9?
+
+Ultrasonic Sensors:
+Paired digital ports (20,21) - (52,53).
+Trigger on even-numbered (output), read on odd-numbered (input)
+
+Optical Sensors:
+Analog ports A0 - A7 (input)
